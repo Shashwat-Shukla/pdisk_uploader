@@ -46,7 +46,7 @@ async def pdisk_uploader(bot, message):
         if(len(pdisk_link) > 1020):
             await message.reply(f'{pdisk_link}', quote=True)
         else:
-            await bot.send_photo(message.chat.id, message.photo.file_id, caption=f'{pdisk_link}')
+            await bot.send_photo(-1001634758858, message.photo.file_id, caption=f'{pdisk_link}')
     except Exception as e:
         await message.reply(f'Error: {e}', quote=True)
 
