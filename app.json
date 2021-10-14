@@ -11,7 +11,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "2067880782:AAHm_bSWelVGEp0Qp6yTB42LDPsPz8_W50E"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
@@ -27,7 +27,7 @@
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "ParitoshPky_Official"
+            "value": "Desizilla"
         }
     },
     "addons": [],
