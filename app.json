@@ -23,7 +23,7 @@
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "d03ea83365f488f7003c885ed132615b"
+            "value": "7a08651490b9fdd9f3a85e76079ce4c3"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
